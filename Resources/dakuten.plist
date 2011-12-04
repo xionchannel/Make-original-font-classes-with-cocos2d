@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ヴ</key>
+	<string>ウ゛</string>
+	<key>ガ</key>
+	<string>カ゛</string>
+	<key>ギ</key>
+	<string>キ゛</string>
+	<key>グ</key>
+	<string>ク゛</string>
+	<key>ゲ</key>
+	<string>ケ゛</string>
+	<key>ゴ</key>
+	<string>コ゛</string>
+	<key>ザ</key>
+	<string>サ゛</string>
+	<key>ジ</key>
+	<string>シ゛</string>
+	<key>ズ</key>
+	<string>ス゛</string>
+	<key>ゼ</key>
+	<string>セ゛</string>
+	<key>ゾ</key>
+	<string>ソ゛</string>
+	<key>ダ</key>
+	<string>タ゛</string>
+	<key>ヂ</key>
+	<string>チ゛</string>
+	<key>ヅ</key>
+	<string>ツ゛</string>
+	<key>デ</key>
+	<string>テ゛</string>
+	<key>ド</key>
+	<string>ト゛</string>
+	<key>バ</key>
+	<string>ハ゛</string>
+	<key>ビ</key>
+	<string>ヒ゛</string>
+	<key>ブ</key>
+	<string>フ゛</string>
+	<key>ベ</key>
+	<string>ヘ゛</string>
+	<key>ボ</key>
+	<string>ホ゛</string>
+	<key>パ</key>
+	<string>ハ゜</string>
+	<key>ピ</key>
+	<string>ヒ゜</string>
+	<key>プ</key>
+	<string>フ゜</string>
+	<key>ペ</key>
+	<string>ヘ゜</string>
+	<key>ポ</key>
+	<string>ホ゜</string>
+</dict>
+</plist>

@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'sidev_cocos2d_xionchannel' target in the 'sidev_cocos2d_xionchannel' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
